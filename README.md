@@ -1,7 +1,7 @@
 # hello-world
 Iniciando
 
-Curiosa
+Curiosa,dedicada,
 Vontade de aprender coisas novas.
 Determinada.
-Decidida.
+Decidida... Em busca de oportunidades.
